@@ -117,8 +117,9 @@ table td {
 
 .sidebar a {
   text-decoration: none;
-  font-size: 25px;
+  font-size: 36px;
   color:#788188;
+  padding: 10px;
 }
 
 .sidebar a:hover {
