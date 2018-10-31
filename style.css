@@ -16,6 +16,7 @@ h1 {
   margin: 30px auto;
   width:700px;
   text-align: center;
+  border-radius: 10px;
 }
 
 img {
@@ -36,6 +37,10 @@ img {
   color:#ffffff;
 }
 
+a {
+  text-decoration: none;
+}
+
 a:hover {
   background-color: #FA9F42;
 }
@@ -54,10 +59,6 @@ ul {
   display: inline-block;
   padding: 50px;
   color:rgb(180,180,180);
-}
-
-.list-inline a {
-  text-decoration: none;
 }
 
 table td {
