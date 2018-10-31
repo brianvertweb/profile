@@ -17,6 +17,7 @@ h1 {
   width:700px;
   text-align: center;
   border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 img {
@@ -39,6 +40,7 @@ img {
 
 a {
   text-decoration: none;
+  color:rgb(20,20,20);
 }
 
 a:hover {
@@ -87,7 +89,7 @@ table td {
 }
 
 /* Sidebar */
-.sidebar {
+#sidebar {
   background-color: #384047;
   position: fixed;
   width: 150px;
@@ -97,25 +99,25 @@ table td {
   text-align:center;
 }
 
-.sidebar ul {
+#sidebar ul {
   list-style: none;
   padding-left: 0px;
 
 }
 
-.sidebar li {
+#sidebar li {
   margin-top:50px;
   margin-bottom: 50px;
 }
 
-.sidebar a {
+#sidebar a {
   text-decoration: none;
   font-size: 25px;
   color:#788188;
 }
 
-.sidebar a:hover {
-  color: white;
+#sidebar a:hover {
+  color: #ffffff;
 }
 
 #page-content {
