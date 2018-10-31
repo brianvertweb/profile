@@ -95,6 +95,7 @@ table td {
 #sidebar ul {
   list-style: none;
   padding-left: 0px;
+  display: inline-block;
 }
 
 #sidebar li {
