@@ -90,12 +90,13 @@ table td {
   top: 0;
   bottom: 0;
   text-align:center;
+  display: inline-block;
 }
 
 #sidebar ul {
   list-style: none;
   padding-left: 0px;
-  display: inline-block;
+
 }
 
 #sidebar li {
