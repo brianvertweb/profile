@@ -1,3 +1,4 @@
+
 body {
   background-color: rgb(230,230,230);
   font-size: 16px;
@@ -82,13 +83,18 @@ table td {
 
 /* Sidebar */
 #sidebar {
+  background-color: #384047;
   position: fixed;
-  width: 300px;
+  width: 150px;
   left: 0;
   top: 0;
   bottom: 0;
+  text-align:center;
+
 }
+
 #page-content {
   margin-left: 300px;
+  align-items: right:
 }
 
