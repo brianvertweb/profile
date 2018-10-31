@@ -102,6 +102,7 @@ table td {
 #sidebar li {
   margin-top:50px;
   margin-bottom: 50px;
+  display: inline-block;
 }
 
 #sidebar a {
