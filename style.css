@@ -54,6 +54,7 @@ ul {
   display: inline-block;
   padding: 50px;
   color:rgb(180,180,180);
+  text-decoration: none
 }
 
 table td {
@@ -82,7 +83,7 @@ table td {
 }
 
 /* Sidebar */
-#sidebar {
+.sidebar {
   background-color: #384047;
   position: fixed;
   width: 150px;
@@ -90,7 +91,6 @@ table td {
   top: 0;
   bottom: 0;
   text-align:center;
-  display: inline-block;
 }
 
 #sidebar ul {
